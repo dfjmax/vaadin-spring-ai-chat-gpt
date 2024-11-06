@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: vaadin-spring-ai-chat-gpt
+  ai:
+    ollama:
+      chat:
+        model: mistral
+
+vaadin:
+  launch-browser: true
